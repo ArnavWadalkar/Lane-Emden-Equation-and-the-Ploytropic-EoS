@@ -4,7 +4,7 @@ This repository documents an ongoing project exploring the structure of white dw
 
 ---
 
-## 📘 Part I — Lane-Emden Equation (Completed)
+## Part I — Lane-Emden Equation (Completed)
 
 This section presents the derivation and solution of the Lane-Emden equation, a dimensionless form of the hydrostatic equilibrium equation for polytropic stars. The analysis includes:
 
@@ -21,7 +21,7 @@ This section presents the derivation and solution of the Lane-Emden equation, a 
 
 ---
 
-## 🧭 Part II — Chandrasekhar Limit (Coming Soon)
+##Part II — Chandrasekhar Limit (Coming Soon)
 
 In the next phase, I will derive the **Chandrasekhar mass limit** for white dwarfs using:
 
@@ -34,7 +34,7 @@ The goal is to bridge classical stellar structure with quantum statistical mecha
 
 ---
 
-## 🧑‍💻 Author
+## Author
 
 **Arnav Wadalkar**  
 B.Sc. Physics student at NIT Rourkela  
@@ -42,6 +42,6 @@ Currently working on white dwarf structure, stellar models, and degenerate matte
 
 ---
 
-## 📄 License
+##License
 
 This project is open for academic and educational use. All figures and code are original unless stated otherwise.
