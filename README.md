@@ -16,7 +16,7 @@ The analysis includes:
 
 ### 🔧 Files
 - `Lane-Emden Article.pdf` — Full article with equations and plots
-- `lane_emden_solver.py` — General RK4 integrator for all \( n \)
+- `Lane_Emden_RK4.ipynb` — General RK4 integrator for all \( n \)
 - `figures/` — All numerical plots and physical profiles
 
 ---
