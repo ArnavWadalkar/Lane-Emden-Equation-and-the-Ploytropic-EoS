@@ -17,7 +17,6 @@ The analysis includes:
 ### 🔧 Files
 - `main.tex` — Full LaTeX article with equations and plots
 - `lane_emden_solver.py` — General RK4 integrator for all \( n \)
-- `theta_series.py` — Taylor expansion of \( \theta(\xi) \) near the stellar center
 - `figures/` — All numerical plots and physical profiles
 
 ---
@@ -39,10 +38,6 @@ The goal is to bridge classical stellar structure with quantum statistical mecha
 
 **Arnav Wadalkar**  
 B.Sc. Physics student at NIT Rourkela  
-Currently working on white dwarf structure, stellar models, and degenerate matter
 
----
-
-##License
-
-This project is open for academic and educational use. All figures and code are original unless stated otherwise.
+--- 
+This project is open for academic and educational use. All figures are original unless stated otherwise.
