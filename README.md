@@ -21,7 +21,7 @@ The analysis includes:
 
 ---
 
-##Part II — Chandrasekhar Limit (Coming Soon)
+## Part II — Chandrasekhar Limit (Coming Soon)
 
 In the next phase, I will derive the **Chandrasekhar mass limit** for white dwarfs using:
 
