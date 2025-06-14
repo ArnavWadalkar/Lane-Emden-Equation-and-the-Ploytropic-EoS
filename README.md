@@ -4,9 +4,10 @@ This repository documents an ongoing project exploring the structure of white dw
 
 ---
 
-## Part I — Lane-Emden Equation (Completed)
+## Part I — Lane-Emden Equation
 
-This section presents the derivation and solution of the Lane-Emden equation, a dimensionless form of the hydrostatic equilibrium equation for polytropic stars. The analysis includes:
+This section presents the derivation and solution of the Lane-Emden equation, a dimensionless form of the hydrostatic equilibrium equation for polytropic stars. 
+The analysis includes:
 
 - Derivation of the Lane-Emden equation from first principles
 - Analytical solutions for polytropic indices \( n = 0 \) and \( n = 1 \)
