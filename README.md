@@ -15,7 +15,7 @@ The analysis includes:
 - Mass-density profiles and physical interpretation of the polytropic index
 
 ### 🔧 Files
-- `main.tex` — Full LaTeX article with equations and plots
+- `Lane-Emden Article.pdf` — Full article with equations and plots
 - `lane_emden_solver.py` — General RK4 integrator for all \( n \)
 - `figures/` — All numerical plots and physical profiles
 
