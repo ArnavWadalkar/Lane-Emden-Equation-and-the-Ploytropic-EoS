@@ -14,7 +14,7 @@ The analysis includes:
 - Numerical solutions using the Runge-Kutta 4th order (RK4) method for \( n = 1.5, 3, 5 \)
 - Mass-density profiles and physical interpretation of the polytropic index
 
-### 🔧 Files
+###  Files
 - `Lane-Emden Article.pdf` — Full article with equations and plots
 - `Lane_Emden_RK4.ipynb` — General RK4 integrator for all \( n \)
 - `figures/` — All numerical plots and physical profiles
