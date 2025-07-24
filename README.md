@@ -1,8 +1,9 @@
 # The Lane-Emden Equation and Polytropic EoS
 
-This repository documents aproject exploring the structure of white dwarfs using classical and statistical physics tools.
+This repository documents a project exploring the structure of white dwarfs using classical and statistical physics tools.
 
 ---
+Part I — The Lane-Emden Equation and Polytropic Equation of State
 
 This article presents the derivation and solution of the Lane-Emden equation, a dimensionless form of the hydrostatic equilibrium equation for polytropic stars. 
 The analysis includes:
@@ -18,6 +19,16 @@ The analysis includes:
 - `figures/` — All numerical plots and physical profiles
 
 ---
+Part II — The Chandrasekhar Limit and Degenerate Electron Pressure
+
+This is a follow-up article that extends the Lane-Emden framework to describe white dwarfs supported by electron degeneracy pressure. The analysis uses statistical physics and relativistic corrections to explore the mass limit beyond which gravitational collapse cannot be resisted
+
+- Derivation of degeneracy pressure from first principles (using Landau's method)
+- Integration of degeneracy pressure into the hydrostatic equilibrium framework
+- Final derivation of the Chandrasekhar mass limit
+- Physical implications for stellar evolution and supernovae
+
+### Files
 
 ## Author
 
