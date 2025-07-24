@@ -1,4 +1,4 @@
-# The Lane-Emden Equation and Polytropic EoS
+# Chandrasekhar Limit and Polytropic EoS
 
 This repository documents a project exploring the structure of white dwarfs using classical and statistical physics tools.
 
